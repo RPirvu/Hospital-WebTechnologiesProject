@@ -1,0 +1,26 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" },
+    "exams": [
+        {
+          "subject": "TC",
+          "date": "2020-06-05",
+          "startHour": "11:20",
+          "session": "Summer",
+          "classroom": "A001",
+          "universityYear": "2019-2020",
+          "studyYear": "1",
+          "section": "Informatica Romana",
+          "numberOfPlaces": "50",
+          "teacher": "Adriana Popovici",
+          "studentName": "User",
+          "id": 1
+        }
+    ]
+}
+  
