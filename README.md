@@ -11,7 +11,7 @@ poate să-i elibereze o scrisoare medicala catre medicul de familie in care sa p
 
 la finalul consultului se bifează tipurile de intervenții făcute;
 
-doctorul să aibă posibilitatea, după terminarea consultului, să creeze automat toate fișele pacientului (Diagnosticul și investigația trebuie cuprinsă atat în fișa de consult cât și în scrisoarea medicală către alt doctor);
+ doctorul să aibă posibilitatea, după terminarea consultului, să creeze automat toate fișele pacientului (Diagnosticul și investigația trebuie cuprinsă atat în fișa de consult cât și în scrisoarea medicală către alt doctor);
 
 ● secretara:
 
