@@ -3,9 +3,9 @@
 Managementul unei clinici medicale/ Spital
 actorii sunt:
 ● medici specialisti:
- vede ce pacient are programat în ziua respectivă și-i completează foaia de consult;
- poate să-i facă trimitere către spital, laborator și radiologie și alte tipuri de consulturi;
- poate să-i elibereze o scrisoare medicala catre medicul de familie in care sa
+vede ce pacient are programat în ziua respectivă și-i completează foaia de consult;
+poate să-i facă trimitere către spital, laborator și radiologie și alte tipuri de consulturi;
+poate să-i elibereze o scrisoare medicala catre medicul de familie in care sa
 precizeze diagnosticul și investigația despre pacient cât și medicamentele prescrise;
  la finalul consultului se bifează tipurile de intervenții făcute;
  doctorul să aibă posibilitatea, după terminarea consultului, să creeze automat toate fișele
