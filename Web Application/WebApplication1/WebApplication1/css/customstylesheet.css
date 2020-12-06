@@ -1,0 +1,159 @@
+﻿.footerlinks {
+    color: #260033;
+    text-decoration: none !important;
+}
+
+.footerlinks:hover {
+    color: #009999;
+}
+
+.section-1 .container .row .col-md-7 {
+    text-align: center;
+    margin-top: 160px;
+}
+
+.section-1 .container .row .col-md-5 {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.section-1 .container-fluid .row .col-md-5 {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.section-1 .container-fluid .row .col-md-7 {
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 60px;
+}
+
+.section-1 .container-fluid {
+    background: #260033;
+}
+
+.section-1 .container-fluid .row .col-md-7 h1 {
+    color: #ffffff;
+}
+
+.section-1 .container-fluid .row .col-md-7 p {
+    color: #f2f2f2;
+}
+
+@media screen and (max-width: 768px) {
+    .section-1 .container .row .col-md-7 {
+        text-align: center;
+        margin-top: 40px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .section-1 .container-fluid .row .col-md-7 {
+        text-align: center;
+        margin-top: 40px;
+    }
+}
+
+footer .col-12 {
+    margin-bottom: 20px;
+}
+
+footer .row .col-md-12 {
+    margin-top: 20px;
+    top: 0px;
+    left: 0px;
+}
+
+footer {
+    background-color: whitesmoke;
+}
+
+footer .row .col-md-12 p {
+    margin-top: 25px;
+}
+
+#for-margin {
+    margin-top: 45px;
+}
+
+#navbarSupportedContent ul ul {
+    position: absolute;
+    display: none;
+    width: 160px;
+}
+
+/*
+#navbarSupportedContent ul #medicpanel:hover .fa {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+*/
+
+#navbarSupportedContent ul li:hover > ul {
+    display: none;
+    background-color: whitesmoke;
+    padding: 12px 14px;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+#navbarSupportedContent ul ul li {
+    text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    #navbarSupportedContent ul ul {
+        position: relative;
+        display: none;
+        width: 160px;
+    }
+}
+
+#navbarSupportedContent ul li:hover ul {
+    display: block;
+}
+
+.multiselect {
+    width: 200px;
+}
+
+.selectBox {
+    position: relative;
+}
+
+.selectBox select {
+    width: 100%;
+    font-weight: normal;
+}
+
+.overSelect {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+#checkboxes {
+    display: none;
+    border: 1px #dadada solid;
+    padding-left: 10px;
+}
+
+#checkboxes label {
+    display: block;
+}
+
+    #checkboxes label input {
+        margin-right: 10px;
+    }
+
+#checkboxes label:hover {
+    background-color: #1e90ff;
+}
